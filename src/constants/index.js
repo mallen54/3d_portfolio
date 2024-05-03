@@ -189,7 +189,7 @@ import {
         },
       ],
       image: teamtalk,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/mallen54/teamtalk-chatapp",
     },
     {
       name: "Job IT",
