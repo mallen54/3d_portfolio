@@ -116,18 +116,6 @@ import {
   
   const experiences = [
     {
-      title: "IT Intern",
-      company_name: "Sidley Austin LLP",
-      icon: sidley,
-      iconBg: "#E6DEDD",
-      date: "Aug 2021 - Aug 2022",
-      points: [
-        "Image, troubleshoot, and manage company assets using ServiceNow.",
-        "Assist company employees in resolving any tech issues that arose.",
-        "Set up and cable-manage employee work stations throughout the office.",
-      ],
-    },
-    {
       title: "Application Developer",
       company_name: "IBM",
       icon: ibm,
@@ -140,32 +128,28 @@ import {
         "Debug and refactor legacy Java applications, all while maintaining core business logic.",
       ],
     },
+    {
+      title: "IT Intern",
+      company_name: "Sidley Austin LLP",
+      icon: sidley,
+      iconBg: "#E6DEDD",
+      date: "Aug 2021 - Aug 2022",
+      points: [
+        "Image, troubleshoot, and manage company assets using ServiceNow.",
+        "Assist company employees in resolving any tech issues that arose.",
+        "Set up and cable-manage employee work stations throughout the office.",
+      ],
+    },
   ];
   
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
-    },
-    {
-      testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
-    },
-    {
-      testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+        "He was fast learner and able to research problem areas and help us solve problems. We were impressed by his abilities as a first-year developer.",
+      name: "Jim Stewart",
+      designation: "Project Manager",
+      company: "IBM",
+      image: "https://media.licdn.com/dms/image/C4D03AQHsk-CA04ccpQ/profile-displayphoto-shrink_200_200/0/1516246268077?e=1720656000&v=beta&t=-2Wwnr-PH4Blstz_O6GS0OHnxEJhOshRsCwus9EiLLo",
     },
   ];
   
