@@ -19,7 +19,7 @@ import {
     ibm,
     sidley,
     teamtalk,
-    jobit,
+    talktome,
     tripguide,
     threejs,
   } from "../assets";
@@ -176,25 +176,29 @@ import {
       source_code_link: "https://github.com/mallen54/teamtalk-chatapp",
     },
     {
-      name: "Job IT",
+      name: "Alan News Search",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Web application that utilizes voice chat with Alan AI to retrieve news articles by communicating with News API.",
       tags: [
         {
-          name: "react",
+          name: "React",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "Alan AI",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "Material UI",
           color: "pink-text-gradient",
         },
+        {
+          name: "News API",
+          color: "orange-text-gradient",
+        },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: talktome,
+      source_code_link: "https://github.com/mallen54/alan-ai-news",
     },
     {
       name: "Trip Guide",

@@ -30,7 +30,7 @@ import sidley from "./company/sidley.png";
 
 //projects
 import teamtalk from "./teamtalk.png";
-import jobit from "./jobit.png";
+import talktome from "./talk2me.png";
 import tripguide from "./tripguide.png";
 
 export {
@@ -59,6 +59,6 @@ export {
   ibm,
   sidley,
   teamtalk,
-  jobit,
+  talktome,
   tripguide,
 };
