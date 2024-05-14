@@ -7,9 +7,9 @@ import {
     html,
     css,
     reactjs,
-    aws,
+    awsCert,
     java,
-    azure,
+    azureCert,
     tailwind,
     nodejs,
     postgres,
@@ -20,7 +20,7 @@ import {
     sidley,
     teamtalk,
     talktome,
-    tripguide,
+    phaserGame,
     threejs,
   } from "../assets";
   
@@ -52,6 +52,14 @@ import {
       title: "Consultant",
       icon: backend,
     },
+    {
+      title: 'AWS Cloud Practitioner Certified',
+      icon: awsCert,
+    },
+    {
+      title: 'Microsoft Azure Fundamentals Certified',
+      icon: azureCert,
+    }
     
   ];
   
@@ -75,14 +83,6 @@ import {
     {
       name: "React JS",
       icon: reactjs,
-    },
-    {
-      name: "aws",
-      icon: aws,
-    },
-    {
-      name: "azure",
-      icon: azure,
     },
     {
       name: "Tailwind CSS",
@@ -201,25 +201,25 @@ import {
       source_code_link: "https://github.com/mallen54/alan-ai-news",
     },
     {
-      name: "Trip Guide",
+      name: "Apple Catcher",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A basic apple catching game using HTML, Javascript, and the Phaser game development framework.",
       tags: [
         {
-          name: "nextjs",
+          name: "HTML5",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "Javascript",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "Phaser",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: phaserGame,
+      source_code_link: "https://github.com/mallen54/apple_catcher",
     },
   ];
   

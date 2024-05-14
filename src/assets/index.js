@@ -7,6 +7,8 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import azureCert from './azureCert.png';
+import awsCert from './awsCert.png';
 
 //techs
 import css from "./tech/css.png";
@@ -17,9 +19,7 @@ import javascript from "./tech/javascript.png";
 import postgres from "./tech/postgres.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
-import aws from "./tech/aws.png";
 import jboss from "./tech/jboss.png";
-import azure from "./tech/azure.png";
 import java from "./tech/java.png";
 import tailwind from "./tech/tailwind.png";
 import threejs from "./tech/threejs.svg";
@@ -31,7 +31,7 @@ import sidley from "./company/sidley.png";
 //projects
 import teamtalk from "./teamtalk.png";
 import talktome from "./talk2me.png";
-import tripguide from "./tripguide.png";
+import phaserGame from "./phaserGame.png";
 
 export {
   logo,
@@ -50,8 +50,8 @@ export {
   postgres,
   nodejs,
   reactjs,
-  aws,
-  azure,
+  awsCert,
+  azureCert,
   jboss,
   java,
   tailwind,
@@ -60,5 +60,5 @@ export {
   sidley,
   teamtalk,
   talktome,
-  tripguide,
+  phaserGame,
 };
